@@ -1,0 +1,19 @@
+body {
+    color:red;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li a {
+    display: block;
+    border: solid 2px black;
+    padding: 5px 0;
+    width: 90px;
+    text-align: center;
+}
+.zeal {
+   color: blue; 
+}
